@@ -1,0 +1,16 @@
+Begin3
+Title:          kdedtester -- Some description
+Version:        0.1
+Entered-date:   
+Description:    
+Keywords:       KDE Qt
+Author:         Diego 'Flameeyes' Petteno <flameeyes@users.berlios.de>
+Maintained-by:  Diego 'Flameeyes' Petteno <flameeyes@users.berlios.de>
+Home-page:      
+Alternate-site: 
+Primary-site:   ftp://ftp.kde.org/pub/kde/unstable/apps/utils
+                xxxxxx  kdedtester-0.1.tar.gz
+                xxx     kdedtester-0.1.lsm
+Platform:       Linux. Needs KDE
+Copying-policy: GPL
+End

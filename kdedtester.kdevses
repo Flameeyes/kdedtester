@@ -1,0 +1,29 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="3" >
+  <Doc0 NumberOfViews="1" URL="file:/home/flame/devel/kdedtester/src/main.cpp" >
+   <View0 line="57" Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:/home/flame/devel/kdedtester/src/fakekded.cpp" >
+   <View0 line="38" Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:/usr/kde/3.3/include/kdedmodule.h" >
+   <View0 line="102" Type="Source" />
+  </Doc2>
+ </DocsAndViews>
+ <pluginList>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="/usr/bin/valgrind" params=" --leak-check=yes" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+  <kdevdebugger>
+   <breakpointList/>
+  </kdevdebugger>
+ </pluginList>
+</KDevPrjSession>
